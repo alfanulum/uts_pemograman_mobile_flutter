@@ -1,0 +1,110 @@
+name: uts_pemograman_mobile_flutter
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  url_launcher: ^6.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/upn.png
+    - assets/informatika.jpg
+    - assets/sisteminformasi.jpg
+    - assets/sainsdata.jpg
+    - assets/mti.jpg
+    - assets/bisnisdigital.png
+    - assets/iconn.png
+    - assets/prodiinformatika/koorprodiinformatika.png
+    - assets/prodiinformatika/pakbasuki.png
+    - assets/prodiinformatika/paksugiarto.png
+    - assets/prodiinformatika/buintan.png
+    - assets/prodiinformatika/pakbudi.png
+    - assets/prodiinformatika/pakaji.png
+    - assets/prodiinformatika/bueva.png
+    - assets/prodiinformatika/pakfaisal.jpg
+    - assets/prodiinformatika/pakfirza.png
+    - assets/prodiinformatika/buhenni.png
+    - assets/prodiinformatika/pakidom.png
+    - assets/prodiinformatika/pakparlika.jpg
+    - assets/prodiinformatika/pakwahyu.png
+    - assets/prodiinformatika/pakjunaidi.png
+    - assets/prodiinformatika/pakwirya.png
+    - assets/prodiinformatika/buyisti.png
+    - assets/prodiinformatika/bumade.png
+    - assets/prodiinformatika/pakali.png
+    - assets/prodiinformatika/pakeka.png
+    - assets/prodiinformatika/pakdiasa.png
+    - assets/prodiinformatika/bukartini.png
+    - assets/prodiinformatika/buretno.png
+    - assets/prodiinformatika/bulina.png
+    - assets/prodiinformatika/pakhendra.png
+    - assets/prodiinformatika/pakmustika.png
+    - assets/prodiinformatika/pakandreas.png
+    - assets/prodiinformatika/buanggraini.png
+    - assets/prodiinformatika/pakmuharrom.png
+    - assets/prodisifo/pakagus.jpg
+    - assets/prodisifo/pakcahyo.jpg
+    - assets/prodisifo/pakprisa.jpg
+    - assets/prodisifo/pakirwan.jpg
+    - assets/prodisifo/pakdoddy.png
+    - assets/prodisifo/pakagung.jpg
+    - assets/prodisifo/busiti.jpg
+    - assets/prodisifo/burizka.jpg
+    - assets/prodisifo/bueka.jpg
+    - assets/prodisifo/buamel.jpg
+    - assets/prodisifo/paklatif.jpg
+    - assets/prodisifo/pakasif.jpg
+    - assets/prodisifo/pakarista.jpg
+    - assets/prodisifo/bumaya.jpg
+    - assets/prodisifo/buanita.jpg
+    - assets/prodisifo/pakdian.jpg
+    - assets/prodisifo/buseftin.jpg
+    - assets/prodisifo/buanindo.jpg
+    - assets/prodisifo/pakefrat.jpg
+    - assets/prodisifo/bureisa.jpg
+    - assets/prodisada/pakdwi.png
+    - assets/prodisada/pakidhom.jpg
+    - assets/prodisada/paksyaiful.jpg
+    - assets/prodisada/paktresna.jpg
+    - assets/prodisada/pakprisma.jpg
+    - assets/prodisada/pakamri.jpg
+    - assets/prodisada/paktrimono.jpg
+    - assets/prodisada/bukartika.jpg
+    - assets/prodisada/buaviola.jpg
+    - assets/prodibisdik/paksugiarto2.jpg
+    - assets/prodibisdik/pakhendra2.jpg
+    - assets/prodibisdik/pakdian2.jpg
+    - assets/prodibisdik/pakwirya2.jpg
+    - assets/prodibisdik/pakletnan.jpg
+    - assets/magister/pakdiasa2.jpg
+    - assets/magister/buani.png
+    - assets/magister/pakagus2.jpg
+    - assets/magister/pakidom2.jpg
+    - assets/prestasisifo.png
+    - assets/deva.jpg
+    - assets/prestasi/infor1.jpg
+    - assets/prestasi/infor2.jpg
+    - assets/prestasi/infor3.jpg
+    - assets/prestasi/infor4.jpg
+    - assets/prestasisifo.png
+    - assets/prestasi/sifo1.jpg
+    - assets/prestasi/sifo2.jpg
+    - assets/prestasi/sifo3.jpg
+    - assets/prestasi/sifo4.jpg
+    - assets/prestasi/sifo5.jpg
+    - assets/prestasi/sada1.jpg
+    - assets/prestasi/sada2.jpg
+    - assets/prestasi/sada3.jpg
